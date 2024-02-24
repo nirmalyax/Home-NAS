@@ -1,5 +1,8 @@
 # Raspberry Pi Home NAS System with Tailscale and Casa OS 🏡💾 
 
+![image](https://github.com/nirmalyax/Home-NAS/assets/35608135/ea2723a8-28a0-4d38-bb73-0b604bc150df)
+
+
 ## Objective:
 
 Build a robust Home NAS (Network Attached Storage) system using a Raspberry Pi, Tailscale, Next DNS for secure remote access, and Casa OS for a user-friendly interface.
